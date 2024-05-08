@@ -1,16 +1,12 @@
 /*
  Theme Name: Twenty Twenty Child
- Theme URL: http://example.com/twentytwenty-child/
+ Theme URL: https://github.com/Diana-Kaba/child-theme
  Description: Twenty Twenty Child Theme
- Author: ME
- Author URL: http://me.com
+ Author: Diana Kaba
+ Author URL: https://github.com/Diana-Kaba
  Template: twentytwenty
  Version: 1.1
  Text Domain: twentytwenty-child
  */
 
 @import url("../twentytwenty/style.css");
-
- .site-title  {
-    color: #f00 !important;
-  }
